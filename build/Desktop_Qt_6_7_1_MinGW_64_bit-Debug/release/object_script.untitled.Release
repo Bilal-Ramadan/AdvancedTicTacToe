@@ -1,0 +1,13 @@
+release/DatabaseManager.o
+release/GameOverDialog.o
+release/Global.o
+release/HistoryScreen.o
+release/SignInScreen.o
+release/SignUpScreen.o
+release/main.o
+release/mainwindow.o
+release/qrc_images.o
+release/moc_HistoryScreen.o
+release/moc_SignInScreen.o
+release/moc_SignUpScreen.o
+release/moc_mainwindow.o

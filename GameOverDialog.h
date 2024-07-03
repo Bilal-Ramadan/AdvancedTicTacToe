@@ -1,0 +1,4 @@
+#ifndef GAMEOVERDIALOG_H
+#define GAMEOVERDIALOG_H
+
+#endif // GAMEOVERDIALOG_H

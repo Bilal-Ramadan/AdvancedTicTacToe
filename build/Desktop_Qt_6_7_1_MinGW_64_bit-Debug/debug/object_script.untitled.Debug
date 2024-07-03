@@ -1,0 +1,13 @@
+debug/DatabaseManager.o
+debug/GameOverDialog.o
+debug/Global.o
+debug/HistoryScreen.o
+debug/SignInScreen.o
+debug/SignUpScreen.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_images.o
+debug/moc_HistoryScreen.o
+debug/moc_SignInScreen.o
+debug/moc_SignUpScreen.o
+debug/moc_mainwindow.o
